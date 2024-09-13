@@ -1,5 +1,5 @@
-![pridelab.icon](https://github.com/PrideLab/PRIDE-GeoDataLogger/blob/master/PRIDE.png)
-## PRIDE-GeoDataLogger ver. 3.0 (last updated on 2024-09-08)
+![pridelab.icon](https://github.com/PrideLab/PRIDE-GeoDataLogger/blob/main/PRIDE.png)
+## PRIDE-GeoDataLogger ver. 1.0 (last updated on 2024-09-13)
 ## 1.What is GeoDataLogger?" 
   GeoDataLogger is a software designed for synchronized recording of sensor data from GNSS, IMU, magnetometers, and more. Its core functionalities encompass: synchronized recording of sensor data from GNSS, IMU, magnetometers, data visualization, format conversion, exportation, and uploading. Users can also export recorded GNSS data into RINEX format for convenient subsequent processing and analysis.
 ## 2.What kinds of data are collected by the GeoDataLogger app?     
@@ -24,5 +24,5 @@
   -> Real-time Upload Setting: Enables automatic upload upon completion of data collection.   
   -> Scheduled Upload Setting: Allows users to set a specific time for data upload.   
 ## 6. How to Contact Us?     
-  GeoDataLogger APP is developed by Pride Lab, Wuhan University. Homepage: http://pride.whu.edu.cn. You can contact us for bug reports and feedback by emailing pride@whu.edu.cn or guangcai.li@whu.edu.cn.
+  GeoDataLogger APP is developed by Pride Lab, Wuhan University. Homepage: <http://pride.whu.edu.cn>. You can contact us for bug reports and feedback by emailing <pride@whu.edu.cn> or <guangcai.li@whu.edu.cn>.
           
